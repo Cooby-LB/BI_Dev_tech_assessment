@@ -2,9 +2,9 @@
 Technical assessment for business intelligence candidates
 
 **How it will work**
-Create a fork of this repository in your own GitHub account. Prepare the outputs as outlined in the brief below along with any collateral you deem necessary, and load all files to your repository. Once complete, please send a link to your repository to rhys.stevenson@pargo.co.za and cc: elrika.ferreira@pargo.co.za by midnight Sunday, 22 March. Late submissions will not be accepted. 
+Create a fork of this repository in your own GitHub account. Prepare the outputs as outlined in the brief below along with any collateral you deem necessary, and load all files to your repository. Once complete, please send a link to your repository to rhys.stevenson@pargo.co.za and cc: elrika.ferreira@pargo.co.za the day before your tech interview to give us some time to go through it as well.
 
-We will then schedule a 1 hour call with you on Tuesday 24 March to take us through your thinking and discuss some additional questions. The session will be interactive and we’ll ask some questions that will require you to write queries and return results in the session. Please have your database accessible and ready to query.
+Your tech interview will be 1 hour and will be your opportunity to take us through your thinking and discuss some additional questions. The session will be interactive and we’ll ask some questions that will require you to write queries and return results in the session. Please have your database accessible and ready to query.
 
 We expect you to do as best you can in a reasonable amount of time. Where further work would be required, simply state that and what it would be. If you reach a dead end, then again, simply state it and we can use some of our time together to problem-solve. Feel free to contact us if you feel some detail or knowledge might help.
 
