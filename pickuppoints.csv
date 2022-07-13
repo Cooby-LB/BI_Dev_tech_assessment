@@ -1,0 +1,944 @@
+Pickup Point ID,Suburb,Province,Regional
+pup673,Newton Park,Eastern Cape,Central
+pup783,Kloof,KwaZulu-Natal,Regional
+pup3045,Bloemfontein,Free State,Central
+pup2267,Bloemfontein,Free State,Township
+pup909,Paarl,Western Cape,Regional
+pup2101,Ballito,KwaZulu-Natal,Regional
+pup4099,Alberton,Gauteng,Central
+pup438,Worcester,Western Cape,Central
+pup2343,Arborpark,Limpopo,Regional
+pup282,Strubenvale,Gauteng,Township
+pup3736,Paarl,Western Cape,Central
+pup1967,Boksburg,Gauteng,Central
+pup2288,Nelspruit,Mpumalanga,Regional
+pup1434,Sandton,Gauteng,Central
+pup2012,Walmer,Eastern Cape,Central
+pup1942,Brakenfell,Western Cape,Central
+pup563,Ermelo,Mpumalanga,Central
+pup4529,Harding,KwaZulu-Natal,Township
+pup681,Vincent Park,Eastern Cape,Central
+pup3569,Bloemfontein,Free State,Regional
+pup527,Kuilsriver,Western Cape,Central
+pup2716,Woodlands,KwaZulu-Natal,Central
+pup911,Bronkhorstspruit,Gauteng,Central
+pup867,Vanderbijlpark,Gauteng,Township
+pup187,Vaalpark,Free State,Regional
+pup1963,Sandbaai,Western Cape,Central
+pup1956,Vincent Park,Eastern Cape,Central
+pup521,Durbanville,Western Cape,Central
+pup3734,Cape Town,Western Cape,Central
+pup1546,Umhlanga Ridge,KwaZulu-Natal,Central
+pup2011,Newton Park,Eastern Cape,Central
+pup3618,Parow,Western Cape,Regional
+pup4140,Pretoria,Gauteng,Central
+pup4250,Upington,,Township
+pup3762,Westville,KwaZulu-Natal,Central
+pup665,Sandton,Gauteng,Township
+pup2615,Mahube,Gauteng,Township
+pup2119,Rustenburg,North West,Township
+pup715,Monumentpark,Gauteng,Central
+pup1458,Umhlanga Ridge,KwaZulu-Natal,Central
+pup1289,Randburg,Gauteng,Central
+pup767,Port Elizabeth,Eastern Cape,Central
+pup2789,Nieuw Muckleneuk,Gauteng,Central
+pup1494,Little Falls,Gauteng,Central
+pup3060,Kroonstad,Free State,Regional
+pup2333,Pietermaritzburg,KwaZulu-Natal,Central
+pup569,Brits,North West,Central
+pup405,Kathu,,Township
+pup3772,Brakpan,Gauteng,Township
+pup2037,Welkom,Free State,Central
+pup3693,Ballito,KwaZulu-Natal,Township
+pup711,Douglasdale,Gauteng,Township
+pup4601,Rustenburg,North West,Central
+pup2905,Klipspruit,Gauteng,Central
+pup52,Fish Hoek,Western Cape,Central
+pup2026,Nieuw Muckleneuk,Gauteng,Central
+pup3192,Claremont,Western Cape,Central
+pup3164,Lichtenburg,North West,Township
+pup628,Killarney,Gauteng,Central
+pup3154,Dwarsloop,Mpumalanga,Regional
+pup3739,Noordhoek,Western Cape,Regional
+pup1907,Melkbosstrand,Western Cape,Central
+pup2970,Lamberts Bay,Western Cape,Central
+pup2104,Amanzimtoti,KwaZulu-Natal,Central
+pup1126,Bellville,Western Cape,Regional
+pup2788,Woodlands,KwaZulu-Natal,Regional
+pup4653,Umhlanga Ridge,KwaZulu-Natal,Regional
+pup2175,Bushbuckridge,Mpumalanga,Regional
+pup3295,Mamelodi,Gauteng,Central
+pup2014,Potchefstroom,North West,Regional
+pup745,Bryanston,Gauteng,Regional
+pup543,Plumstead,Western Cape,Regional
+pup755,Alberton,Gauteng,Township
+pup2782,Somerset West,Western Cape,Township
+pup1594,Tongaat,KwaZulu-Natal,Regional
+pup4275,Halfway Gardens,Gauteng,Regional
+pup2400,Athlone,Western Cape,Central
+pup3080,Soweto,Gauteng,Central
+pup3089,Mamelodi,Gauteng,Regional
+pup2541,Sandton,Gauteng,Regional
+pup3058,Ficksburg,Free State,Township
+pup4536,Riversdale,Western Cape,Regional
+pup611,Bluff,KwaZulu-Natal,Regional
+pup490,Robertson,Western Cape,Regional
+pup2725,Strubens Valley,Gauteng,Central
+pup25,Parow,Western Cape,Central
+pup3134,Louis Trichardt,Limpopo,Central
+pup4274,Midrand,Gauteng,Regional
+pup3709,Germiston,Gauteng,Central
+pup2719,George,Western Cape,Regional
+pup618,Margate,KwaZulu-Natal,Township
+pup2775,Tzaneen,Limpopo,Regional
+pup2987,Mabopane,Gauteng,Township
+pup2746,Dolphin Coast,KwaZulu-Natal,Central
+pup3537,Mooirivier Park,North West,Township
+pup3239,Phuthaditjhaba,Free State,Regional
+pup606,Pinetown,KwaZulu-Natal,Regional
+pup781,Phoenix,KwaZulu-Natal,Central
+pup2073,Kenilworth,Western Cape,Central
+pup528,Stellenbosch,Western Cape,Central
+pup1420,Big Bay,Western Cape,Regional
+pup139,Rustenburg,North West,Regional
+pup2320,Bluff,KwaZulu-Natal,Regional
+pup4258,Witbank,Mpumalanga,Central
+pup1695,Salt Rock,KwaZulu-Natal,Central
+pup928,Ruimsig,Gauteng,Regional
+pup1954,Waterfall,KwaZulu-Natal,Regional
+pup2196,Table View,Western Cape,Regional
+pup3759,La Lucia,KwaZulu-Natal,Township
+pup1892,Tierpoort,Gauteng,Regional
+pup672,Vanderbijlpark,Gauteng,Central
+pup729,Sunninghill,Gauteng,Central
+pup746,Annlin,Gauteng,Central
+pup1025,Umlazi,KwaZulu-Natal,Regional
+pup857,Stellenbosch,Western Cape,Regional
+pup1433,Mitchells Plain,Western Cape,Regional
+pup4429,Olifantsfontein,Gauteng,Central
+pup546,Dreyersdal Est,Western Cape,Regional
+pup750,Craighall,Gauteng,Township
+pup1109,Worcester,Western Cape,Central
+pup1459,Cape Town,Western Cape,Township
+pup2306,Thohoyandou,Limpopo,Regional
+pup3094,Gleneagles,Gauteng,Regional
+pup1034,Lebowakgomo,Limpopo,Regional
+pup2570,Bethal,Mpumalanga,Central
+pup778,Mamelodi,Gauteng,Regional
+pup657,Fourways,Gauteng,Regional
+pup1448,Karenpark,Gauteng,Regional
+pup568,Nelspruit,Mpumalanga,Regional
+pup2349,Centurion,Gauteng,Regional
+pup650,Phalaborwa,Limpopo,Regional
+pup1566,Sandton,Gauteng,Regional
+pup2817,Ballito,KwaZulu-Natal,Central
+pup496,Helderberg,Western Cape,Central
+pup433,KUILS RIVER,Western Cape,Central
+pup2107,Westdene,Free State,Central
+pup1488,Garsfontein,Gauteng,Central
+pup3292,MADADENI,KwaZulu-Natal,Regional
+pup1982,Cresta,Gauteng,Central
+pup4092,Alberton,Gauteng,Central
+pup903,Polokwane,Limpopo,Township
+pup4270,Vanderbijlpark,Gauteng,Township
+pup1693,Gardens,Western Cape,Township
+pup667,Nieuw Muckleneuk,Gauteng,Township
+pup912,Florapark,Limpopo,Regional
+pup741,Gezina,Gauteng,Central
+pup1110,Cape Town,Western Cape,Township
+pup2340,Bloubergstrand,Western Cape,Central
+pup2003,West Acres,Mpumalanga,Regional
+pup214,Vaalwater,Limpopo,Central
+pup4342,Century City,Western Cape,Central
+pup979,Honeydew,Gauteng,Central
+pup1470,Benoni,Gauteng,Central
+pup2697,Mahikeng,North West,Regional
+pup957,DURBAN NORTH,KwaZulu-Natal,Township
+pup505,Langebaan,Western Cape,Central
+pup1015,Hunters Retreat,Eastern Cape,Central
+pup2755,Waterfall,KwaZulu-Natal,Regional
+pup3694,Nelspruit,Mpumalanga,Township
+pup3012,Pretoria,Gauteng,Regional
+pup898,Johannesburg,Gauteng,Central
+pup4023,Tzaneen,Limpopo,Central
+pup3167,Brits,North West,Township
+pup675,Queenstown,Eastern Cape,Regional
+pup4390,Pietermaritzburg,KwaZulu-Natal,Regional
+pup4604,De Aar,,Central
+pup3233,Grassy Park,Western Cape,Central
+pup738,Kimberley,,Regional
+pup2079,Soweto,Gauteng,Regional
+pup3923,Parkhurst,Gauteng,Regional
+pup669,Braamfontein,Gauteng,Regional
+pup2753,Westville,KwaZulu-Natal,Township
+pup2772,Gardens,Western Cape,Regional
+pup2839,Westville,KwaZulu-Natal,Regional
+pup2139,Rustenburg,North West,Township
+pup3100,Krugersdorp,Gauteng,Regional
+pup926,Bloemfontein,Free State,Regional
+pup831,Derdepoort,Gauteng,Regional
+pup891,Amajuba,KwaZulu-Natal,Township
+pup1452,Menlyn,Gauteng,Township
+pup3129,Bluff,KwaZulu-Natal,Regional
+pup2527,Constantia,Western Cape,Regional
+pup1044,Nelspruit,Mpumalanga,Regional
+pup904,Tzaneen,Limpopo,Regional
+pup3052,East London,Eastern Cape,Regional
+pup4338,Kloof,KwaZulu-Natal,Central
+pup3145,Hazyview,Mpumalanga,Central
+pup1020,Bethlehem,Free State,Regional
+pup503,Malmesbury,Western Cape,Regional
+pup3774,Kempton Park,Gauteng,Regional
+pup4811,Amanzimtoti,KwaZulu-Natal,Central
+pup933,Bloemfontein,Free State,Regional
+pup2804,Aspen Hills,Gauteng,Central
+pup2784,Walmer,Eastern Cape,Central
+pup1503,Bedfordview,Gauteng,Central
+pup4105,Musina,Limpopo,Township
+pup1561,Midrand,Gauteng,Regional
+pup935,Bloemfontein,Free State,Regional
+pup3144,Secunda,Mpumalanga,Regional
+pup1614,Vanderbijlpark,Gauteng,Central
+pup661,Mabopane,Gauteng,Central
+pup2307,Thohoyandou,Limpopo,Regional
+pup1849,Uniondale,Western Cape,Central
+pup4074,Kempton Park,Gauteng,Regional
+pup992,JUKSKEI PARK,Gauteng,Central
+pup731,Edenvale,Gauteng,Regional
+pup2761,Paarl,Western Cape,Central
+pup494,Somerset West,Western Cape,Township
+pup4778,Mossel Bay,Western Cape,Central
+pup2769,Table View,Western Cape,Central
+pup997,Daspoort,Gauteng,Central
+pup736,Mafikeng,North West,Central
+pup1398,Belhar,Western Cape,Central
+pup885,Durban,KwaZulu-Natal,Central
+pup949,Morningside,Gauteng,Regional
+pup1271,Pretoria,Gauteng,Township
+pup3679,Mossel Bay,Western Cape,Central
+pup4377,Alberton,Gauteng,Central
+pup1424,Hermanus,Western Cape,Central
+pup2338,Estcourt,KwaZulu-Natal,Regional
+pup1022,Despatch,Eastern Cape,Regional
+pup1121,Milnerton,Western Cape,Central
+pup4277,Northgate,Gauteng,Central
+pup1624,Johannesburg,Gauteng,Central
+pup4264,Edenvale,Gauteng,Central
+pup616,Kokstad,KwaZulu-Natal,Regional
+pup1949,Sunningdale,Western Cape,Regional
+pup2671,Helikonhoogte,Free State,Central
+pup1579,Groblersdal,Limpopo,Township
+pup1759,Scottburgh,KwaZulu-Natal,Township
+pup1038,Hammarsdale,KwaZulu-Natal,Township
+pup964,Durban,KwaZulu-Natal,Township
+pup4525,CLAYVILLE,Gauteng,Regional
+pup980,Boksburg,Gauteng,Township
+pup2559,George,Western Cape,Regional
+pup4711,Mount Edgecombe,KwaZulu-Natal,Regional
+pup2087,Goodwood,Western Cape,Regional
+pup991,Fochville,North West,Regional
+pup1120,Bellville,Western Cape,Regional
+pup983,Randburg,Gauteng,Regional
+pup1986,Midrand,Gauteng,Regional
+pup116,Ulundi,KwaZulu-Natal,Regional
+pup525,Brackenfell,Western Cape,Township
+pup854,Ermelo,Mpumalanga,Regional
+pup786,Secunda,Mpumalanga,Regional
+pup1935,Centurion,Gauteng,Regional
+pup1115,Tokai,Western Cape,Central
+pup905,Del Judor,Mpumalanga,Regional
+pup1009,Moreletapark,Gauteng,Regional
+pup2750,Tokai,Western Cape,Township
+pup689,Kempton Park,Gauteng,Regional
+pup1947,Bellville,Western Cape,Township
+pup3893,Woodlands,KwaZulu-Natal,Regional
+pup1476,Welkom,Free State,Township
+pup981,Blackheath,Gauteng,Regional
+pup2285,Pinetown,KwaZulu-Natal,Central
+pup533,Franschhoek,Western Cape,Regional
+pup2908,Nelspruit,Mpumalanga,Regional
+pup799,Thabazimbi,Limpopo,Regional
+pup938,Faerie Glen,Gauteng,Regional
+pup694,Centurion,Gauteng,Township
+pup2169,Observatory,Western Cape,Regional
+pup3179,Atlantis,Western Cape,Regional
+pup2210,Brakpan,Gauteng,Regional
+pup3281,Phoenix,KwaZulu-Natal,Central
+pup3701,Brackenfell,Western Cape,Regional
+pup707,Parys,Free State,Township
+pup2741,La Lucia,KwaZulu-Natal,Central
+pup1708,Stellenbosch,Western Cape,Central
+pup3306,Vincent Park,Eastern Cape,Regional
+pup4365,Butterworth,Eastern Cape,Regional
+pup1960,Groblersdal,Limpopo,Township
+pup580,Meadowridge,Western Cape,Central
+pup377,Polokwane,Limpopo,Regional
+pup2261,Wynberg,Western Cape,Regional
+pup718,Centurion,Gauteng,Central
+pup2212,Chatsworth,KwaZulu-Natal,Regional
+pup566,Sasolburg,Free State,Township
+pup4427,City & Suburban,Gauteng,Regional
+pup3133,Phalaborwa,Limpopo,Township
+pup732,Umtata,Eastern Cape,Regional
+pup3151,Middelburg,Mpumalanga,Central
+pup931,Bloemfontein,Free State,Regional
+pup2538,Westville,KwaZulu-Natal,Township
+pup514,Parklands,Western Cape,Central
+pup4175,Mdantsane,Eastern Cape,Central
+pup784,Lephalale,Limpopo,Regional
+pup318,Warrenton,,Regional
+pup2730,Walmer,Eastern Cape,Township
+pup2830,Walmer,Eastern Cape,Regional
+pup1007,Umhlali,KwaZulu-Natal,Central
+pup493,Worcester,Western Cape,Central
+pup2780,Century City,Western Cape,Central
+pup960,Bendor,Limpopo,Regional
+pup1944,Constantia,Western Cape,Central
+pup1968,Bedfordview,Gauteng,Regional
+pup4287,Karenpark,Gauteng,Central
+pup624,Midrand,Gauteng,Central
+pup3109,Dobsonville,Gauteng,Central
+pup2241,Hammanskraal,Gauteng,Township
+pup1396,Delft,Western Cape,Central
+pup2173,Umzimkulu,KwaZulu-Natal,Central
+pup4181,Amanzimtoti,KwaZulu-Natal,Central
+pup1611,Rylands,Western Cape,Central
+pup722,Willow Glen,Gauteng,Central
+pup492,Ceres,Western Cape,Regional
+pup2814,Menlyn,Gauteng,Regional
+pup922,King Williams Town,Eastern Cape,Central
+pup2860,Midrand,Gauteng,Township
+pup974,Selcourt,Gauteng,Central
+pup3817,Helderkruin,Gauteng,Township
+pup3770,Olivedale,Gauteng,Central
+pup2735,Newcastle,KwaZulu-Natal,Central
+pup1030,Jozini,KwaZulu-Natal,Central
+pup4787,Schoemansville,Gauteng,Township
+pup517,N1 City,Western Cape,Central
+pup1172,Winterton,KwaZulu-Natal,Central
+pup702,Welkom,Free State,Central
+pup79,Glenashley,KwaZulu-Natal,Township
+pup2724,West Acres,Mpumalanga,Township
+pup1390,Alexandra,Gauteng,Township
+pup2272,Worcester,Western Cape,Township
+pup467,Lyndhurst,Gauteng,Central
+pup3757,Ballito,KwaZulu-Natal,Central
+pup975,Nigel,Gauteng,Regional
+pup504,Piketberg,Western Cape,Central
+pup613,PIETERMARITZBURG,KwaZulu-Natal,Township
+pup877,Pietermaritzburg,KwaZulu-Natal,Regional
+pup2786,V & A Waterfront,Western Cape,Regional
+pup682,Kabega Park,Eastern Cape,Central
+pup4268,Southgate,Gauteng,Regional
+pup744,Alberton,Gauteng,Township
+pup3150,Del Judor,Mpumalanga,Central
+pup1631,Burgersfort,Limpopo,Central
+pup4187,Tsakane,Gauteng,Central
+pup3104,Centurion,Gauteng,Township
+pup2901,Wynberg,Western Cape,Regional
+pup766,Sunninghill,Gauteng,Regional
+pup907,Rivonia,Gauteng,Township
+pup4488,Lorraine,Eastern Cape,Regional
+pup2280,Paarl,Western Cape,Regional
+pup3925,TYGER VALLEY,Western Cape,Township
+pup500,Hermanus,Western Cape,Regional
+pup3740,Walmer,Eastern Cape,Central
+pup1625,Ballito,KwaZulu-Natal,Township
+pup607,La Lucia,KwaZulu-Natal,Central
+pup708,Kuruman,,Township
+pup1940,Century City,Western Cape,Regional
+pup2013,Hunters Retreat,Eastern Cape,Central
+pup3698,Fourways,Gauteng,Regional
+pup1399,Mount Edgecombe,KwaZulu-Natal,Regional
+pup3186,Kenilworth,Western Cape,Township
+pup2027,Centurion,Gauteng,Regional
+pup3103,Cresta,Gauteng,Regional
+pup2109,Brits,North West,Central
+pup941,Glenvista,Gauteng,Central
+pup3140,Tzaneen,Limpopo,Township
+pup3054,Idutywa,Eastern Cape,Township
+pup578,Brackenfell,Western Cape,Regional
+pup108,Umhlanga Ridge,KwaZulu-Natal,Township
+pup3451,Dundee,KwaZulu-Natal,Township
+pup2533,Bellville,Western Cape,Township
+pup3273,Meyersdal,Gauteng,Regional
+pup3063,Soshanguve,Gauteng,Township
+pup2402,Vincent Park,Eastern Cape,Regional
+pup782,Atteridgeville,Gauteng,Regional
+pup203,Bultfontein,Free State,Central
+pup112,Louis Trichardt,Limpopo,Regional
+pup1465,Tzaneen,Limpopo,Regional
+pup686,Beacon Bay,Eastern Cape,Regional
+pup2857,Liefde En Vrede,Gauteng,Regional
+pup1993,Klerksdorp,North West,Regional
+pup3779,Nelspruit,Mpumalanga,Township
+pup4154,Athlone,Western Cape,Township
+pup1039,Hillcrest,KwaZulu-Natal,Township
+pup373,Tsitsikamma,Eastern Cape,Central
+pup1489,Dawncliffe,KwaZulu-Natal,Township
+pup3081,Sunnyside,Gauteng,Township
+pup4286,Annlin,Gauteng,Township
+pup2318,Welkom,Free State,Township
+pup3900,Kimberley,,Township
+pup913,Wellington,Western Cape,Central
+pup3703,Sandton,Gauteng,Township
+pup511,Milnerton,Western Cape,Regional
+pup758,Rossburgh,KwaZulu-Natal,Regional
+pup3289,East London,Eastern Cape,Central
+pup779,PROTEA GLEN,Gauteng,Township
+pup1575,Johannesburg,Gauteng,Township
+pup2301,Standerton,Mpumalanga,Regional
+pup4754,Arborpark,Limpopo,Regional
+pup2312,Uitenhage,Eastern Cape,Township
+pup1491,Midrand,Gauteng,Central
+pup1443,Century City,Western Cape,Central
+pup3174,Springbok,,Central
+pup2067,Durban,KwaZulu-Natal,Central
+pup3952,SIBASA,Limpopo,Central
+pup2224,Centurion,Gauteng,Central
+pup646,Mokopane,Limpopo,Regional
+pup2472,Hoedspruit,Limpopo,Regional
+pup3001,Richmond,Gauteng,Regional
+pup2243,Kathu,,Central
+pup3165,Zeerust,North West,Central
+pup2391,Thulamahashe,Mpumalanga,Regional
+pup2308,Lenasia,Gauteng,Regional
+pup2778,George,Western Cape,Township
+pup720,Auckland Park,Gauteng,Township
+pup994,Soshanguve,Gauteng,Regional
+pup728,Irene,Gauteng,Central
+pup418,Parys,Free State,Central
+pup2138,Rustenburg,North West,Central
+pup4654,Westville,KwaZulu-Natal,Township
+pup1998,Tzaneen,Limpopo,Regional
+pup1862,Tsolo,Eastern Cape,Regional
+pup757,Jim Fouchepark,Free State,Central
+pup3086,Tembisa,Gauteng,Regional
+pup4252,Newcastle,KwaZulu-Natal,Regional
+pup4291,Hermanus,Western Cape,Central
+pup759,Pietermaritzburg,KwaZulu-Natal,Central
+pup2029,Montana Park,Gauteng,Central
+pup925,Uitenhage,Eastern Cape,Regional
+pup1617,Newcastle,KwaZulu-Natal,Central
+pup701,Kimberley,,Regional
+pup545,Constantia,Western Cape,Central
+pup2800,Ballito,KwaZulu-Natal,Central
+pup508,Pinelands,Western Cape,Township
+pup3997,Kakamas,,Central
+pup1934,Dalton,KwaZulu-Natal,Regional
+pup737,Kathu,,Regional
+pup1556,Vanderbijlpark,Gauteng,Central
+pup3542,Queenstown,Eastern Cape,Regional
+pup1618,Wolmaransstad,North West,Central
+pup3741,Port Elizabeth,Eastern Cape,Regional
+pup3076,Ferndale,Gauteng,Township
+pup3069,Heidelberg,Gauteng,Township
+pup441,Bochabela,Free State,Township
+pup2025,Bergvliet,Western Cape,Township
+pup1456,Pretoria,Gauteng,Township
+pup1036,Newtown,Gauteng,Regional
+pup1148,Gordons Bay,Western Cape,Central
+pup753,Randpark Ridge,Gauteng,Regional
+pup507,Weskus Mall,Western Cape,Regional
+pup3939,Greenpoint,Western Cape,Regional
+pup984,Centurion,Gauteng,Central
+pup1113,Claremont,Western Cape,Central
+pup902,PRETORIA WEST,Gauteng,Regional
+pup896,Sunnyside,Gauteng,Regional
+pup713,Fourways,Gauteng,Regional
+pup3912,Willows,Free State,Regional
+pup1089,Kathu,,Central
+pup2084,Bendor,Limpopo,Central
+pup554,Cape Town,Western Cape,Township
+pup2113,Pretoriuspark,Gauteng,Regional
+pup817,Porterville,Western Cape,Central
+pup869,Aerorand,Mpumalanga,Central
+pup1431,Menlyn,Gauteng,Central
+pup859,Meadowdale,Gauteng,Central
+pup1453,Mitchells Plain,Western Cape,Central
+pup180,Newcastle,KwaZulu-Natal,Township
+pup2796,La Lucia,KwaZulu-Natal,Township
+pup868,Brakpan,Gauteng,Township
+pup1953,La Lucia,KwaZulu-Natal,Regional
+pup537,Gugulethu,Western Cape,Township
+pup2120,Ballito,KwaZulu-Natal,Township
+pup4185,Vredenburg,Western Cape,Township
+pup4071,Lebowakgomo,Limpopo,Township
+pup948,Klerksdorp,North West,Regional
+pup3155,Nelspruit,Mpumalanga,Regional
+pup614,Port Shepstone,KwaZulu-Natal,Regional
+pup735,Klipspruit,Gauteng,Central
+pup1423,Parklands,Western Cape,Township
+pup1077,Germiston,Gauteng,Regional
+pup3957,Witbank,Mpumalanga,Central
+pup2290,Roodepoort,Gauteng,Township
+pup556,V & A Waterfront,Western Cape,Regional
+pup1496,Bellville,Western Cape,Central
+pup3068,Orange Farm,Gauteng,Regional
+pup632,Rustenburg,North West,Township
+pup2774,Helikonhoogte,Free State,Township
+pup551,Gardens,Western Cape,Regional
+pup3119,Durban,KwaZulu-Natal,Central
+pup608,Ladysmith,KwaZulu-Natal,Township
+pup2211,Centurion,Gauteng,Central
+pup3251,Port Elizabeth,Eastern Cape,Central
+pup536,Kenilworth,Western Cape,Regional
+pup3902,Durban,KwaZulu-Natal,Township
+pup874,Durban,KwaZulu-Natal,Central
+pup549,Fish Hoek,Western Cape,Regional
+pup648,Southgate,Gauteng,Central
+pup627,Erasmuskloof,Gauteng,Township
+pup1130,Bellville,Western Cape,Regional
+pup2841,Bellville,Western Cape,Regional
+pup4641,Gardens,Western Cape,Central
+pup4152,Pinetown,KwaZulu-Natal,Central
+pup3265,Krugersdorp,Gauteng,Regional
+pup1472,Mitchells Plain,Western Cape,Regional
+pup864,Centurion,Gauteng,Township
+pup3211,BARTLETTS,Gauteng,Regional
+pup635,Three Rivers,Gauteng,Regional
+pup3631,Roodepoort,Gauteng,Township
+pup535,Claremont,Western Cape,Township
+pup1932,Hazyview,Mpumalanga,Regional
+pup3455,Standerton,Mpumalanga,Central
+pup965,Potchefstroom,North West,Regional
+pup329,Lichtenburg,North West,Regional
+pup677,George,Western Cape,Central
+pup774,Soweto,Gauteng,Township
+pup2407,Rustenburg,North West,Regional
+pup1087,Ferndale,Gauteng,Central
+pup2562,Marshalltown,Gauteng,Regional
+pup1958,George,Western Cape,Township
+pup3556,Brackenfell,Western Cape,Township
+pup2367,Stanger,KwaZulu-Natal,Township
+pup2717,Hillcrest,KwaZulu-Natal,Regional
+pup2235,Harrismith,Free State,Regional
+pup1988,Sandton,Gauteng,Central
+pup771,Middelburg,Mpumalanga,Regional
+pup1276,Lenasia,Gauteng,Regional
+pup2246,King Williams Town,Eastern Cape,Township
+pup2103,Bryanston,Gauteng,Regional
+pup3781,Lynnwood,Gauteng,Township
+pup789,Soshanguve,Gauteng,Regional
+pup1353,Kwamhlanga,Mpumalanga,Regional
+pup4554,Durban Central,KwaZulu-Natal,Central
+pup988,Vosloorus,Gauteng,Township
+pup3737,Athlone,Western Cape,Regional
+pup985,Birch Acres,Gauteng,Regional
+pup2075,Amanzimtoti,KwaZulu-Natal,Central
+pup3784,Pretoriuspark,Gauteng,Township
+pup1437,Umhlanga Ridge,KwaZulu-Natal,Township
+pup3288,Athlone,Western Cape,Township
+pup612,Richards Bay,KwaZulu-Natal,Regional
+pup4300,Sea Point,Western Cape,Central
+pup1312,Butterworth,Eastern Cape,Township
+pup4407,Kuruman,,Township
+pup876,Montclair,KwaZulu-Natal,Regional
+pup2403,Volksrust,Mpumalanga,Regional
+pup524,Durbanville,Western Cape,Central
+pup897,Sandton,Gauteng,Central
+pup916,Randfontein,Gauteng,Regional
+pup365,Vryburg,,Regional
+pup3259,Paarl,Western Cape,Regional
+pup2749,Karenpark,Gauteng,Central
+pup714,Bromhof,Gauteng,Township
+pup878,Scottsville,KwaZulu-Natal,Central
+pup1094,Bryanston,Gauteng,Central
+pup540,Westgate Mall,Western Cape,Regional
+pup777,Hillcrest,KwaZulu-Natal,Central
+pup3112,Ladysmith,KwaZulu-Natal,Central
+pup3261,Tokai,Western Cape,Regional
+pup1427,Bellville,Western Cape,Central
+pup4290,Cape Town,Western Cape,Central
+pup573,Vryburg,North West,Regional
+pup2102,Umhlanga Rocks,KwaZulu-Natal,Regional
+pup2374,Bedfordview,Gauteng,Regional
+pup1560,Benoni,Gauteng,Regional
+pup2829,Modderfontein,Gauteng,Regional
+pup3123,Amanzimtoti,KwaZulu-Natal,Regional
+pup2114,Vanderbijlpark,Gauteng,Township
+pup1586,Sunningdale,Western Cape,Township
+pup356,Pofadder,,Regional
+pup1480,East London,Eastern Cape,Regional
+pup1455,Sandton,Gauteng,Township
+pup625,Menlyn,Gauteng,Township
+pup762,Midrand,Gauteng,Township
+pup953,Lydenburg,Mpumalanga,Regional
+pup768,Stanger,KwaZulu-Natal,Township
+pup873,Chatsworth,KwaZulu-Natal,Regional
+pup603,Westville,KwaZulu-Natal,Regional
+pup2727,Bendor,Limpopo,Regional
+pup3267,Umbogintwini,KwaZulu-Natal,Regional
+pup806,Hoedspruit,Limpopo,Central
+pup2763,Willows,Free State,Regional
+pup2722,Equestria,Gauteng,Regional
+pup1011,Pongola,KwaZulu-Natal,Central
+pup4243,La Lucia,KwaZulu-Natal,Central
+pup2086,Kuilsriver,Western Cape,Central
+pup3533,Boksburg,Gauteng,Central
+pup2801,Sunningdale,Western Cape,Central
+pup1008,Volksrust,Mpumalanga,Regional
+pup1392,Malelane,Mpumalanga,Regional
+pup4466,Die Heuwel,Mpumalanga,Central
+pup1389,Witpoort,Gauteng,Township
+pup3653,Cape Town,Western Cape,Township
+pup739,Schoemansville,North West,Township
+pup2228,East London,Eastern Cape,Township
+pup2030,Centurion,Gauteng,Central
+pup875,Westville,KwaZulu-Natal,Central
+pup2768,Sandbaai,Western Cape,Central
+pup541,Mitchells Plain,Western Cape,Regional
+pup4117,Umlazi,KwaZulu-Natal,Central
+pup773,Centurion,Gauteng,Central
+pup4280,Krugersdorp,Gauteng,Township
+pup3735,Stellenbosch,Western Cape,Central
+pup4608,Galeshewe,,Regional
+pup4257,Springs,Gauteng,Central
+pup2174,Sterkspruit,Eastern Cape,Central
+pup3271,Kenilworth,Western Cape,Township
+pup4047,Greyville,KwaZulu-Natal,Regional
+pup3481,Sandton,Gauteng,Regional
+pup2519,Bellville,Western Cape,Central
+pup747,Blue Valley Golf Estate,Gauteng,Central
+pup3193,Bridgetown,Western Cape,Regional
+pup577,Plattekloof,Western Cape,Regional
+pup610,Empangeni,KwaZulu-Natal,Regional
+pup3141,Thohoyandou,Limpopo,Central
+pup3683,Fourways,Gauteng,Regional
+pup88,Linton Grange,Eastern Cape,Township
+pup1879,Krugersdorp,Gauteng,Regional
+pup4289,Constantia,Western Cape,Township
+pup3092,Florentia,Gauteng,Township
+pup110,Kempton Park,Gauteng,Township
+pup1928,Polokwane,Limpopo,Township
+pup2093,Germiston,Gauteng,Regional
+pup3334,Witbank,Mpumalanga,Regional
+pup354,Pongola,KwaZulu-Natal,Regional
+pup2253,Polokwane,Limpopo,Central
+pup3135,Mokopane,Limpopo,Regional
+pup761,Centurion,Gauteng,Regional
+pup4111,Mokopane,Limpopo,Central
+pup791,Musina,Limpopo,Central
+pup3098,Three Rivers,Gauteng,Central
+pup3277,Potchefstroom,North West,Central
+pup2999,Philippi,Western Cape,Regional
+pup923,Lorraine,Eastern Cape,Regional
+pup2757,Witbank,Mpumalanga,Regional
+pup211,Delareyville,North West,Central
+pup4547,Elukwatini,Mpumalanga,Central
+pup734,Umlazi,KwaZulu-Natal,Township
+pup3108,Alexandra,Gauteng,Regional
+pup3072,Liefde En Vrede,Gauteng,Township
+pup2008,Chasedene,KwaZulu-Natal,Township
+pup1595,PRETORIUSPARK,Gauteng,Township
+pup3660,Montana,Gauteng,Regional
+pup2323,Bethlehem,Free State,Regional
+pup3153,Ermelo,Mpumalanga,Regional
+pup1001,Vryheid,KwaZulu-Natal,Township
+pup3943,Bryanston,Gauteng,Township
+pup4538,Lyttelton Manor,Gauteng,Township
+pup1943,Claremont,Western Cape,Central
+pup2616,Bergsig,Western Cape,Central
+pup775,Sherwood,KwaZulu-Natal,Central
+pup1941,Tokai,Western Cape,Regional
+pup2459,Ermelo,Mpumalanga,Regional
+pup1135,Vredenburg,Western Cape,Regional
+pup977,Horizon View,Gauteng,Regional
+pup2828,Somerset West,Western Cape,Township
+pup1568,Rustenburg,North West,Regional
+pup963,East London,Eastern Cape,Regional
+pup2792,Waterfall,KwaZulu-Natal,Regional
+pup437,Paarl,Western Cape,Regional
+pup408,PRETORIA WEST,Gauteng,Regional
+pup1134,Cape Town,Western Cape,Regional
+pup3075,Atteridgeville,Gauteng,Central
+pup2072,Germiston,Gauteng,Central
+pup651,Kempton Park,Gauteng,Regional
+pup429,Nigel,Gauteng,Township
+pup2118,Richards Bay,KwaZulu-Natal,Township
+pup2270,Potchefstroom,North West,Regional
+pup1602,Jeffreys Bay,Eastern Cape,Regional
+pup2226,George,Western Cape,Regional
+pup489,Edgemead,Western Cape,Central
+pup724,Willow Acres Estate,Gauteng,Central
+pup4173,Bendor,Limpopo,Regional
+pup670,Cashan,North West,Regional
+pup3046,Hunters Retreat,Eastern Cape,Regional
+pup1640,Rosebank,Gauteng,Central
+pup3878,Woodlands,KwaZulu-Natal,Central
+pup3702,Cambridge West,Eastern Cape,Township
+pup2464,Fochville,North West,Township
+pup1742,Sandton,Gauteng,Regional
+pup4246,Port Shepstone,KwaZulu-Natal,Township
+pup2528,Umhlanga Ridge,KwaZulu-Natal,Regional
+pup3579,Broederstroom,North West,Central
+pup4433,Ladysmith,KwaZulu-Natal,Central
+pup3128,Ballito,KwaZulu-Natal,Regional
+pup2524,Midrand,Gauteng,Central
+pup3625,Kuilsriver,Western Cape,Central
+pup770,Newcastle,KwaZulu-Natal,Central
+pup811,Centurion,Gauteng,Central
+pup2736,Middelburg,Mpumalanga,Central
+pup3182,Bellville,Western Cape,Central
+pup2781,Menlyn,Gauteng,Regional
+pup4108,Atteridgeville,Gauteng,Central
+pup2537,Bedfordview,Gauteng,Township
+pup1639,Hillcrest,KwaZulu-Natal,Regional
+pup884,Meer En See,KwaZulu-Natal,Central
+pup2262,Mdantsane,Eastern Cape,Regional
+pup4129,Pietermaritzburg,KwaZulu-Natal,Regional
+pup660,Montana Park,Gauteng,Township
+pup2106,Brandwag,Free State,Township
+pup383,Oudtshoorn,Western Cape,Township
+pup1157,Paulpietersburg,KwaZulu-Natal,Regional
+pup3142,Polokwane,Limpopo,Township
+pup1349,Pietermaritzburg,KwaZulu-Natal,Township
+pup2762,Liefde En Vrede,Gauteng,Township
+pup147,Linden,Gauteng,Township
+pup2475,Ladismith,Western Cape,Township
+pup4278,Randpark Ridge,Gauteng,Township
+pup1442,Brackenfell North,Western Cape,Township
+pup3775,Benoni,Gauteng,Township
+pup772,Westville,KwaZulu-Natal,Township
+pup2798,Liefde En Vrede,Gauteng,Regional
+pup2714,Bellville,Western Cape,Regional
+pup3152,Nelspruit,Mpumalanga,Regional
+pup548,Sanddrift,Western Cape,Central
+pup2294,Sasolburg,Free State,Central
+pup2445,Brakpan,Gauteng,Regional
+pup516,Century City,Western Cape,Township
+pup2105,Bethlehem,Free State,Central
+pup3114,Matatiele,KwaZulu-Natal,Township
+pup2878,Mkhuhlu,Mpumalanga,Township
+pup513,Table View,Western Cape,Township
+pup169,Viljoenskroon,Free State,Township
+pup1763,Umzimkulu,KwaZulu-Natal,Regional
+pup1946,V & A Waterfront,Western Cape,Regional
+pup1853,Bochum,Limpopo,Regional
+pup1984,Bedfordview,Gauteng,Regional
+pup2305,Taung,North West,Township
+pup706,Fauna,Free State,Township
+pup3948,Siyabuswa,Mpumalanga,Regional
+pup795,Evaton,Gauteng,Regional
+pup3117,Umtata,Eastern Cape,Regional
+pup790,Mtubatuba,KwaZulu-Natal,Regional
+pup4432,Tugela Ferry,KwaZulu-Natal,Regional
+pup565,Standerton,Mpumalanga,Regional
+pup4625,Greytown,KwaZulu-Natal,Central
+pup1959,Grahamstown,Eastern Cape,Regional
+pup939,AKASIA,Gauteng,Regional
+pup754,Howick,KwaZulu-Natal,Township
+pup883,Umhlanga Rocks,KwaZulu-Natal,Township
+pup4122,Empangeni,KwaZulu-Natal,Township
+pup579,Welgemoed,Western Cape,Regional
+pup699,Mafikeng,North West,Regional
+pup892,George,Western Cape,Regional
+pup302,Heilbron,Gauteng,Township
+pup723,Witbank,Mpumalanga,Township
+pup3567,Century City,Western Cape,Regional
+pup4752,Nelspruit,Mpumalanga,Central
+pup2069,Kempton Park,Gauteng,Regional
+pup2563,Atteridgeville,Gauteng,Regional
+pup3079,Modderfontein,Gauteng,Regional
+pup3127,Chatsworth,KwaZulu-Natal,Township
+pup2259,Matatiele,KwaZulu-Natal,Township
+pup2906,East London,Eastern Cape,Township
+pup4786,Uitenhage,Eastern Cape,Central
+pup83,Berea,KwaZulu-Natal,Township
+pup1558,Pietermaritzburg,KwaZulu-Natal,Township
+pup796,Queensburgh,KwaZulu-Natal,Central
+pup2795,Sandton,Gauteng,Central
+pup519,Bellville,Western Cape,Regional
+pup2214,Kimberley,,Regional
+pup2783,West Acres,Mpumalanga,Regional
+pup3758,Richards Bay,KwaZulu-Natal,Township
+pup3280,Parow,Western Cape,Central
+pup2564,Seshego,Limpopo,Regional
+pup2298,Shelly Beach,KwaZulu-Natal,Central
+pup2299,Somerset West,Western Cape,Central
+pup4046,Claremont,Western Cape,Regional
+pup4340,Beacon Valley,Western Cape,Central
+pup2209,Brackenfell,Western Cape,Regional
+pup3531,Centurion,Gauteng,Township
+pup973,Glenmarais,Gauteng,Regional
+pup1432,Willows,Free State,Township
+pup3048,Grahamstown,Eastern Cape,Township
+pup2264,Bellville,Western Cape,Central
+pup4132,Phalaborwa,Limpopo,Regional
+pup3116,Kokstad,KwaZulu-Natal,Regional
+pup1962,Heidelberg,Gauteng,Regional
+pup345,East Lynne,Gauteng,Regional
+pup727,KWAXUMA,Gauteng,Regional
+pup3275,Pietermaritzburg,KwaZulu-Natal,Central
+pup3901,Brakpan,Gauteng,Central
+pup946,Val De Grace,Gauteng,Township
+pup3049,Jeffreys Bay,Eastern Cape,Central
+pup1854,Steynsburg,Eastern Cape,Central
+pup4526,Rustenburg,Gauteng,Central
+pup662,Benoni,Gauteng,Regional
+pup3967,Chatsworth,KwaZulu-Natal,Central
+pup3562,Somerset West,Western Cape,Central
+pup4109,Polokwane,Limpopo,Regional
+pup602,Berea,KwaZulu-Natal,Regional
+pup3096,Brakpan,Gauteng,Regional
+pup987,Centurion,Gauteng,Regional
+pup4532,Soshanguve,Gauteng,Central
+pup2738,V & A Waterfront,Western Cape,Township
+pup2534,Roodepoort,Gauteng,Central
+pup3161,Moruleng,North West,Central
+pup4112,Rustenburg,North West,Central
+pup2773,Thohoyandou,Limpopo,Regional
+pup2010,Bendor,Limpopo,Central
+pup890,Langenhovenpark,Free State,Central
+pup1436,Newton Park,Eastern Cape,Regional
+pup3820,Mondeor,Gauteng,Central
+pup2309,Burgersfort,Limpopo,Township
+pup571,Burgersfort,Limpopo,Township
+pup2785,Pretoriuspark,Gauteng,Regional
+pup914,White River,Mpumalanga,Township
+pup3892,Umhlanga Rocks,KwaZulu-Natal,Township
+pup668,Zeerust,North West,Regional
+pup526,Kuils river,Western Cape,Central
+pup3751,Gugulethu,Western Cape,Regional
+pup3657,New Muckleneuk,Gauteng,Central
+pup4179,Secunda,Mpumalanga,Township
+pup4207,Newcastle,KwaZulu-Natal,Township
+pup2351,Karenpark,Gauteng,Central
+pup3125,Richards Bay,KwaZulu-Natal,Central
+pup2032,Stellenbosch,Western Cape,Township
+pup476,Lydenburg,Mpumalanga,Regional
+pup1990,Kyalami,Gauteng,Township
+pup1445,Durban,KwaZulu-Natal,Regional
+pup3969,Witbank,Mpumalanga,Central
+pup950,Halfway House,Gauteng,Regional
+pup2077,Kwamhlanga,Mpumalanga,Central
+pup2411,Kuilsriver,Western Cape,Regional
+pup1955,Cambridge West,Eastern Cape,Township
+pup4176,Kimberley,,Central
+pup4010,Paarl,Western Cape,Regional
+pup4517,Monsterlus,Limpopo,Central
+pup3147,Elukwatini,Mpumalanga,Township
+pup626,Edenvale,Gauteng,Central
+pup641,Bedford Gardens,Gauteng,Regional
+pup2220,Eshowe,KwaZulu-Natal,Township
+pup748,Fourways,Gauteng,Township
+pup3254,Fourways,Gauteng,Township
+pup4082,Orange Farm,Gauteng,Regional
+pup3792,Springs,Gauteng,Regional
+pup4007,Cape Town,Western Cape,Central
+pup2335,Ladysmith,KwaZulu-Natal,Township
+pup2834,Bellville,Western Cape,Regional
+pup2254,Lynnwood,Gauteng,Regional
+pup940,Barberton,Mpumalanga,Regional
+pup2491,Polokwane,Limpopo,Regional
+pup1740,Nelspruit,Mpumalanga,Central
+pup1952,Westville,KwaZulu-Natal,Central
+pup3680,Port Elizabeth,Eastern Cape,Central
+pup3131,Lebowakgomo,Limpopo,Central
+pup2371,Hillcrest,KwaZulu-Natal,Regional
+pup1085,Heidedal,Free State,Central
+pup2278,Queenstown,Eastern Cape,Regional
+pup3894,Greenacres,Eastern Cape,Regional
+pup1128,Stellenbosch,Western Cape,Township
+pup751,Moreletapark,Gauteng,Township
+pup2557,North Beach,KwaZulu-Natal,Central
+pup4285,Tzaneen,Limpopo,Central
+pup3646,Brackenfell,Western Cape,Central
+pup4741,Montague Gardens,Western Cape,Regional
+pup3747,George,Western Cape,Township
+pup3684,Bedfordview,Gauteng,Township
+pup2263,Middelburg,Mpumalanga,Central
+pup4255,Middelburg,Mpumalanga,Regional
+pup4263,Centurion,Gauteng,Central
+pup3655,Magaliesburg,Gauteng,Regional
+pup1393,Benoni,Gauteng,Central
+pup3170,Hartswater,North West,Regional
+pup617,Scottburgh,KwaZulu-Natal,Regional
+pup1460,Greenacres,Eastern Cape,Township
+pup3675,Mamelodi,Gauteng,Central
+pup2071,Mondeor,Gauteng,Regional
+pup1573,Bedfordview,Gauteng,Township
+pup1544,Jansenpark,Gauteng,Regional
+pup2497,Schweizer-Reneke,Gauteng,Regional
+pup1277,Tonga,Mpumalanga,Central
+pup605,Shelly Beach,KwaZulu-Natal,Township
+pup652,Jansenpark,Gauteng,Township
+pup1146,Sinoville,Gauteng,Regional
+pup1863,Jane Furse,Limpopo,Regional
+pup942,Sinoville,Gauteng,Township
+pup726,Boksburg,Gauteng,Regional
+pup683,Plettenberg Bay,Western Cape,Township
+pup3448,Mthatha,Eastern Cape,Township
+pup1314,Cofimvaba,Eastern Cape,Regional
+pup3534,Fourways,Gauteng,Township
+pup2728,Brakpan,Gauteng,Regional
+pup769,Witbank,Mpumalanga,Regional
+pup2295,Polokwane,Limpopo,Township
+pup2064,Roodepoort,Gauteng,Township
+pup2251,Ladysmith,KwaZulu-Natal,Township
+pup3055,Bethlehem,Free State,Central
+pup3566,Tokai,Western Cape,Central
+pup3146,Mbombela,Mpumalanga,Regional
+pup1454,Westdene,Free State,Regional
+pup956,Simons Town,Western Cape,Regional
+pup4266,Klerksdorp,North West,Regional
+pup1930,Simons Town,Western Cape,Regional
+pup2273,Mthatha,Eastern Cape,Regional
+pup3188,Oudtshoorn,Western Cape,Central
+pup65,Akasia,Gauteng,Central
+pup856,Germiston,Gauteng,Township
+pup3181,Gugulethu,Western Cape,Regional
+pup2532,Claremont,Western Cape,Township
+pup3960,Brandwag,Free State,Township
+pup704,Bethlehem,Free State,Regional
+pup3783,Karenpark,Gauteng,Regional
+pup3706,Paarl,Western Cape,Township
+pup2031,Somerset West,Western Cape,Township
+pup1629,Plumstead,Western Cape,Regional
+pup1053,Gillitts,KwaZulu-Natal,Central
+pup4249,Jim Fouchepark,Free State,Regional
+pup1032,Northam,North West,Township
+pup498,Strand,Western Cape,Regional
+pup2197,Benoni,Gauteng,Regional
+pup1387,Aliwal North,Eastern Cape,Central
+pup2419,Postmasburg,,Central
+pup3262,Midrand,Gauteng,Regional
+pup2223,Butterworth,Eastern Cape,Central
+pup3178,Ceres,Western Cape,Regional
+pup958,Delmas,Mpumalanga,Central
+pup3047,Lusikisiki,Eastern Cape,Central
+pup3819,Roodepoort,Gauteng,Central
+pup1474,Port Elizabeth,Eastern Cape,Township
+pup4156,Kenilworth,Western Cape,Central
+pup3118,Port Shepstone,KwaZulu-Natal,Regional
+pup3617,Tokai,Western Cape,Regional
+pup4076,Soweto,Gauteng,Regional
+pup1471,Polokwane,Limpopo,Township
+pup658,Honeydew,Gauteng,Regional
+pup3749,Krugersdorp,Gauteng,Regional
+pup3099,Horizon View,Gauteng,Regional
+pup1426,Vanderbijlpark,Gauteng,Regional
+pup2036,Vredenburg,Western Cape,Regional
+pup1512,Sandton,Gauteng,Central
+pup141,Blairgowrie,Gauteng,Central
+pup3589,Goodwood,Western Cape,Township
+pup4705,Crawford,Western Cape,Regional
+pup1957,Witbank,Mpumalanga,Regional
+pup140,Groblersdal,Gauteng,Regional
+pup3279,Paarl,Western Cape,Central
+pup3177,Vredendal,Western Cape,Regional
+pup2192,Alberton,Gauteng,Township
+pup3269,Witbank,Mpumalanga,Township
+pup1835,Jagersfontein,Free State,Regional
+pup1132,Cape Town,Western Cape,Central
+pup1439,Bedfordview,Gauteng,Regional
+pup3071,Northgate,Gauteng,Regional
+pup1127,Parow,Western Cape,Regional
+pup1122,Milnerton,Western Cape,Regional
+pup1492,Willows,Free State,Central
+pup352,Faerie Glen,Gauteng,Central
+pup552,Cape Town,Western Cape,Regional
+pup945,Rustenburg,North West,Regional
+pup392,Wolmaransstad,North West,Township
+pup4527,Katlehong,Gauteng,Regional
+pup2907,Marshalltown,Gauteng,Central
